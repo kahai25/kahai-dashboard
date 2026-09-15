@@ -1,9 +1,9 @@
-# Check Dash+ — IT101 Dashboard
+# Kahai Dashboard — IT101 Dashboard
 
 A personal Chiang Mai dashboard submitted as the teacher-approved dashboard alternative to the CV lab.
 
 ## Website
-https://kahai25.github.io/My-CV/
+https://kahai25.github.io/kahai-dashboard/
 
 ## Features
 Current weather, tomorrow and seven-day forecasts, Chiang Mai and Mobile clocks, USD/THB/MMK conversion, modeled air quality, sunrise/sunset, and an external Google Maps traffic link.
